@@ -144,7 +144,7 @@ Isso não é apenas chato, é ineficaz. Novos problemas geralmente exigem novas 
 
 No início, no nascimento da computação, não havia linguagens de programação. Os programas ficaram mais ou menos assim:
 
-```
+```javascript
 00110001 00000000 00000000
 00110001 00000001 00000001
 00110011 00000001 00000010
@@ -174,7 +174,7 @@ Cada linha do programa anterior contém uma única instrução. Poderia ser escr
 
 Embora isso já seja mais legível do que a sopa de bits, ainda é bastante obscuro. Usar nomes em vez de números para as instruções e locais de memória ajuda.
 
-```
+```javascript
 Set “total” to 0.
  Set “count” to 1.
 [loop]
@@ -192,7 +192,7 @@ Você pode ver como o programa funciona neste momento? As duas primeiras linhas 
 
 Aqui está o mesmo programa em JavaScript:
 
-```
+```javascript
 deixe  total  =  0 , contagem  =  1 ;
 while ( contagem  <=  10 ) {
    total  +=  contagem ;
@@ -208,7 +208,7 @@ No final do programa, após a conclusão da `while`construção, a `console.log`
 
 Finalmente, aqui está como o programa poderia se parecer se tivéssemos as operações convenientes `range`e `sum`disponíveis, que respectivamente criam uma coleção de números dentro de um intervalo e calculam a soma de uma coleção de números:
 
-```
+```javascript
 consola . log ( soma ( intervalo ( 1 , 10 )));
 // → 55
 ```
@@ -321,7 +321,7 @@ Este capítulo apresenta os elementos atômicos dos programas JavaScript, ou sej
 
 Os valores do tipo *numérico* são, sem surpresa, valores numéricos. Em um programa JavaScript, eles são escritos da seguinte forma:
 
-```
+```javascript
 13
 ```
 
@@ -335,13 +335,13 @@ Nem todos os números inteiros menores que 18 quintilhões cabem em um número J
 
 Os números fracionários são escritos usando um ponto.
 
-```
+```javascript
 9,81
 ```
 
 Para números muito grandes ou muito pequenos, você também pode usar a notação científica adicionando um *e* (para *expoente* ), seguido pelo expoente do número.
 
-```
+```javascript
 2.998e8
 ```
 
@@ -361,7 +361,7 @@ Os símbolos `+`e são chamados *de operadores* . O primeiro significa adição 
 
 Mas o exemplo significa “somar 4 e 100 e multiplicar o resultado por 11”, ou a multiplicação é feita antes da adição? Como você deve ter adivinhado, a multiplicação acontece primeiro. Mas, como na matemática, você pode mudar isso envolvendo a adição entre parênteses.
 
-```
+```javascript
 ( 100  +  4 ) *  11
 ```
 
@@ -385,7 +385,7 @@ Os dois primeiros são `Infinity`e `-Infinity`, que representam os infinitos pos
 
 O próximo tipo de dados básico é a *string* . Strings são usadas para representar texto. Eles são escritos colocando seu conteúdo entre aspas.
 
-```
+```javascript
 'No mar' 
 "Deite-se no oceano" 
 'Flutue no oceano'
@@ -410,7 +410,7 @@ And this is the second
 
 Existem, é claro, situações em que você deseja que uma barra invertida em uma string seja apenas uma barra invertida, não um código especial. Se duas barras invertidas se seguirem, elas serão recolhidas juntas e apenas uma será deixada no valor da string resultante. É assim que a string “ *Um caractere de nova linha é escrito como `"`\n `"`.* " pode ser expressada:
 
-```
+```javascript
 "A newline character is written like \"\\n\"."
 ```
 
@@ -438,7 +438,7 @@ Quando você escreve algo dentro `${}`de um modelo literal, seu resultado será 
 
 Nem todos os operadores são símbolos. Alguns são escritos como palavras. Um exemplo é o `typeof`operador, que produz um valor de string nomeando o tipo do valor que você fornece.
 
-```
+```javascript
 console.log(typeof 4.5)
 // → number
 console.log(typeof "x")
@@ -462,7 +462,7 @@ Muitas vezes é útil ter um valor que diferencie apenas duas possibilidades, co
 
 Aqui está uma maneira de produzir valores booleanos:
 
-```
+```javascript
 console.log(3 > 2)
 // → true
 console.log(3 < 2)
@@ -482,7 +482,7 @@ A forma como as strings são ordenadas é aproximadamente alfabética, mas não 
 
 Outros operadores semelhantes são `>=`(maior ou igual a), `<=`(menor ou igual a), `==`(igual a) e (diferente `!=`de).
 
-```
+```javascript
 console.log("Itchy" != "Scratchy")
 // → true
 console.log("Apple" == "Orange")
@@ -491,7 +491,7 @@ console.log("Apple" == "Orange")
 
 Existe apenas um valor em JavaScript que não é igual a si mesmo, que é `NaN`(“não é um número”).
 
-```
+```javascript
 console.log(NaN == NaN)
 // → false
 ```
@@ -504,7 +504,7 @@ Existem também algumas operações que podem ser aplicadas aos próprios valore
 
 O `&&`operador representa lógico *e* . É um operador binário e seu resultado é verdadeiro somente se ambos os valores dados a ele forem verdadeiros.
 
-```
+```javascript
 console.log(true && false)
 // → false
 console.log(true && true)
@@ -513,7 +513,7 @@ console.log(true && true)
 
 O `||`operador denota lógico *ou* . Ela produz true se qualquer um dos valores fornecidos a ela for true.
 
-```
+```javascript
 console.log(false || true)
 // → true
 console.log(false || false)
@@ -530,7 +530,7 @@ Ao misturar esses operadores booleanos com aritméticos e outros operadores, nem
 
 O último operador lógico que discutirei não é unário, nem binário, mas *ternário* , operando em três valores. Está escrito com um ponto de interrogação e dois pontos, assim:
 
-```
+```javascript
 console.log(true ? 1 : 2);
 // → 1
 console.log(false ? 1 : 2);
@@ -551,7 +551,7 @@ A diferença de significado entre `undefined`e `null`é um acidente do design do
 
 Na introdução, mencionei que o JavaScript se esforça para aceitar quase qualquer programa que você der a ele, mesmo programas que fazem coisas estranhas. Isso é bem demonstrado pelas seguintes expressões:
 
-```
+```javascript
 console.log(8 * null)
 // → 0
 console.log("5" - 1)
@@ -589,7 +589,7 @@ Os operadores lógicos `&&`e `||`manipulam valores de diferentes tipos de forma 
 
 O `||`operador, por exemplo, retornará o valor à sua esquerda quando puder ser convertido para true e retornará o valor à sua direita caso contrário. Isso tem o efeito esperado quando os valores são booleanos e faz algo análogo para valores de outros tipos.
 
-```
+```javascript
 console.log(null || "user")
 // → user
 console.log("Agnes" || "user")
