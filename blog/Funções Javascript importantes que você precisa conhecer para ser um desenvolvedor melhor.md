@@ -105,7 +105,7 @@ ___
 Luke Shiru
 Você pode querer atualizar alguns:
 
-. Deep Copy: Agora você tem **structuredClone** , não há necessidade de implementá-lo você mesmo.
+. Deep Copy: Agora você tem **[structuredClone](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)** , não há necessidade de implementá-lo você mesmo.
 . Aguarde: Você não precisa ter waitum valor separado, você pode apenas transformá-lo em uma função:
 ```javascript
 const wait = timeout => new Promise(resolve => setTimeout(resolve, timeout));
