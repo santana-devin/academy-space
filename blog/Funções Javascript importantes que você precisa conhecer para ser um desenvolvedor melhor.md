@@ -133,3 +133,12 @@ JSON.stringify({
 ````
 Basta usar lodash. Ou escreva seu próprio algoritmo de clonagem profunda. Ou ao usar o navegador, você pode usar o **structuredClone** (há alguns limites também).
 
+____
+
+fatores de pares
+
+Node.js 17.0.0 adicionado structuredClone(value[, options])
+
+Antes disso , use v8.serialize(value) e v8.deserialize(buffer) .
+
+Em seguida, há flatted que adiciona referências recursivas e RecursiveMap cima do JSON (ainda sem funções, símbolos, etc.).
