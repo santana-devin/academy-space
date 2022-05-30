@@ -181,11 +181,11 @@ Indução(Fenômeno observado) -> Leis e Teorias -> Dedução(Previsões e expli
 
 > Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho e esquerda; e que a mãe está do lado direito de Sérgio.
 
-  ```mermaid
+```mermaid
 graph TD;
-    A{PAI-SERGIO}-->B{MÃE-TERESA};
-    A-->C{FILHO-ROBERTO};
-    B-->D{FILHA-FERNANDA};
+    A[PAI-SERGIO]-->B[MÃE-TERESA];
+    A-->C[FILHO-ROBERTO];
+    B-->D[FILHA-FERNANDA];
     C-->D;
 ```
 
@@ -203,6 +203,124 @@ A partir de uma solução, determinar pontos de melhora e refinamento
   - Melhorar códigos e algoritmos
     - Simplificar linhas de códigos
     - Funções bem definidas
+
+
+### Etapa 3 Pilares: Decomposição
+// Primeiros passos para começar a programar/ Pensamento Computacional/
+
+
+#### Objetivo Geral
+É preciso coompreender como executar cada etapa de um pensamento computacional.
+
+Dessa forma, as aulas subsequêntes são dedicadas à compreensão individual de cada pilar desse processo de pensamento.
+
+```
+"If you can't solve a problem,
+then there is an easier
+problem that you can solve: find it"
+
+*George Polya – professor e matemático*
+```
+
+Primeiro passo da resolução de problemas dentro do conceitode pensamento computacional 
+
+"Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis."
+
+### Estratégia
+#### Análise
+Processo de quebrar e determinar partes menores e gerenciáveis
+  - Estudar, explorar 
+  - "realizar exame detalhado" 
+  - Decompor em elementos constituíntes
+
+#### Síntese
+Combinar os elementos e recompondo o problema original
+ - Processo de reconstrução
+ - Fundir os elementos de maneira coerente
+ - Consiste em reunir elementos distintos em um único elemento
+
+#### Ordem de execução de tarefas menores
+  - Sequêncial
+  - Paralelo
+
+### Sequêncial
+Ordem de execução de tarefas menores
+  - Dependência entre tarefas.
+  - Executadas em "fila"
+
+### Paralelo
+Ordem de excução de tarefas menores. Tarefas podem ser execultadas concomitantemente
+ - + Eficiência
+ - - Tempo
+
+- Variáveis
+- Pequenos Problemas
+- Segmentação
+
+ - Não basta aplicar
+ - Desenvolver a decomposição "By yourself"
+
+> Maneiras distintas de decompor o mesmo problema.
+
+### Como decompor?
+Identificar ou coletar dados => Agregar os dados => Funcionalidade => Decomposição
+
+##Exemplos
+
+**Exemolo do cotidiano: cozinhar**
+  - Identificar os ingredientes
+  - Determinar as etapas (sequêncial ou paralelo)
+  - Executar cada etapa
+  - Agregar os ingredientes para finalizar (Recompor com coerência)
+
+**Exemplo do cotidiano: funcionamento de uma bike**
+Funcionamento do sistema
+ - Identificar os componentes
+ - Papel de cada componente
+ - Interdependência das peças
+
+**Exemplo: criar um app** - Desenvolvimento mais eficiênte
+Definição de componentes e etapas
+  - Finalidade
+  - Interface
+  - Funcinalidades
+  - Pré-requisitos
+ 
+ **Exemplo: Artigo** - Sequencial ou paralelo em ordem ou não
+Definição de componentes e etapas
+  - O que será abordado?
+  - Estrutura
+  - Conteúdo de cada tópico
+  - Textos de conexão
+ 
+ **Exemplo: movimentos de um avatar**
+ 
+```mermaid
+graph TD;
+    A[Ações]===B[Padrão];
+    A===C[Movimento];
+    B===D[Virar];
+    B===E[Mover];
+    D===F[Direita];
+    D===G[Esquerda];
+    E===H[Cima];
+    E===I[Baixo];
+    C===J[Andar];
+    C===L[Correr];
+    C===M[Sentar];
+    C===N[Levantar];
+    L===O[Mover perna]
+    L===P[Impucionar]
+```
+ 
+
+
+
+
+
+
+
+
 
 
 
