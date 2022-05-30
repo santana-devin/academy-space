@@ -55,7 +55,7 @@ Imagem do bootcamp Seja Protagonista Neste Bootcamp
   - Desafio de projeto
     - [ ] Construindo um App usando Sensor de Movimento com React Native -  1 hrs
   - Curso
-    - [ ]Criando aplicações móveis multiplataforma com React Native - 4 hrs
+    - [ ] Criando aplicações móveis multiplataforma com React Native - 4 hrs
 
 ## Mentorias
 
