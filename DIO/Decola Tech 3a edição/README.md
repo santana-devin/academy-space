@@ -86,20 +86,5 @@ Imagem do bootcamp Seja Protagonista Neste Bootcamp
     - Janaina Caldeira
  > 01/06/2022 - 16:00 - 2 horas
 
-#### Desenvolvedores
-> - Paulo GracianoBrasil
-> - Alex VieiraBrasil
-> - Marcos Reginaldo
-> - Vitória LiraBrasil
-> - Michael AraújoBrasil
-> - Caroline QuirinoBrasil
-> - Taiane RodriguesBrasil
-> - GLEIDSON SANTANABrasil
-> - Marcus CarvalhoBrasil
-> - Silvio FerreiraBrasil
-> - Amanda BasaiaBrasil
-> - Edson DiasBrasil
-> - Carlos JúniorBrasil
-
 
 
