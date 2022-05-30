@@ -5,8 +5,8 @@
 - [X] Apresentação
 - [X] Introdução
 - [X] Habilidade complementares
-- [ ] Pilares: Decomposição
-- [ ] Pilares: Padrões
+- [X] Pilares: Decomposição
+- [X] Pilares: Padrões
 - [ ] Pilares: Abstração
 - [ ] Pilares: Algoritmos
 - [ ] Estudo de caso conceitual: perdido
@@ -312,17 +312,75 @@ graph TD;
     L===O[Mover perna]
     L===P[Impucionar]
 ```
- 
 
 
+## Etapa 4 Pilares: Padrões
+// Primeiros passos para começar a programar/ Pensamento Computacional/
+
+**Reconhecimento de Padrões**
+  - Modelo base
+  - Estrutura invariante
+  - Repetição
+
+Similaridades e diferença
 
 
+**Ex: fotos de redes sociais**
+Compressão -> Salvar no servidor de dados
+
+Processos utilizados por plataformas diferentes
+
+**Ex: Compressão de dados**
+Compressão por reconhecimento de padrões
 
 
+Seres vivos x padrões
+EX.: Determinar padrões de Frutas e Doces
+  - Frutas: Natural, etc
+  - Doces: Fabricado, etc
+
+**Por que determinar padrões?**
+
+Generelizar, com objetivo de obter resolução para problemas diferentes
+
+ - Classes
+ - Categorias
+
+> Tipo de media,Dependem do domínio
+
+**Como o ser humano reconhece padrões?**
+  - Grau de similaridade
+  - Grupos conhecidos x objeto desconhecido
 
 
+**Como o computador reconhece padrões?**
+  - Comparação
 
+    => Representação de atributos
+    => Aprendizado – conceito associado ao objeto
+    => Armazenar dados
+    => Regras de decisão
 
+-----------------------
+Em resumo ...
+  - Abordagem
+    - Extração de características
+    - Classificação de dados
+    
+  - DIFERENTES
+    - Métodos
+    - Aplicação 
+
+----------------------  
+
+### Aplicações
+  - Classificação de dados
+  - Reconhecimento de imagem
+  - Reconhecimento de fala
+  - Análise de cenas
+  - Classificação de documentos
+
+> Onde se aplicam:**Machine Learning**, **Redes Neurais**, **Inteligência Artificial**, **Ciência de dados**.
 
 
 
