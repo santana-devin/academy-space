@@ -4,7 +4,7 @@
 ##### Pensamento contutacional
 - [X] Apresentação
 - [X] Introdução
-- [ ] Habilidade complementares
+- [X] Habilidade complementares
 - [ ] Pilares: Decomposição
 - [ ] Pilares: Padrões
 - [ ] Pilares: Abstração
@@ -85,7 +85,7 @@ Apresentar os conceitos que caracterizam o pensamento com putacional, permitindo
  - Etapa 8 Estudo de caso aplicado: Soma de um intervalo
  - Etapa 9 Estudo de caso aplicado: Adivinhe um número
 
-### Etapa 1 Introdução ao pensamento computacional
+## Etapa 1 Introdução ao pensamento computacional
 // Primeiros passos para programar/Pensamento Computacional
 
 #### Overview
@@ -109,17 +109,17 @@ Processo de pensamento envolvido na expressão de soluções em passos computaci
     - Abstração
     - Design de algoritmos
 
- -1 Dividir um problema complexo em subproblemas
- -2 Identificar padrões ou tendências
+ - 1 Dividir um problema complexo em subproblemas
+ - 2 Identificar padrões ou tendências
     - Similaridades e diferenças entre os problemas - Padrão comportamental
- -3 Extrapolar o conceito do problema para um forma generalista   
+ - 3 Extrapolar o conceito do problema para um forma generalista   
  > POO
  > - Classes
  > - Métodos
  > - Heranças
  > - Poliformismo
 
--4 Automatizar Definir passo a passo a solução do problema.
+- 4 Automatizar Definir passo a passo a solução do problema.
 
 
 ### Overview
@@ -128,16 +128,16 @@ Processo Contínuo
 • Testar a solução
 • Aperfeiçoamento da solução encontrada
 
-![alt text for screen readers](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-29.gif).
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-29.gif).
 
 
-![alt text for screen readers](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-30.gif).
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-30.gif).
 
 
-![alt text for screen readers](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-31.gif).
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-31.gif).
 
 
-![alt text for screen readers](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-32.gif).
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-32.gif).
 
 
 ### Exemplos
@@ -158,7 +158,53 @@ Processo Contínuo
  - Facilitador
 
 
+## Etapa 2 Habilidades complementares
+// Primeiros passos para começar a programar/Pensamento Computacional
 
-
-
+### Habilidades
+ - Raciocínio Lógico
+ - Aperfeiçoamento
   
+**Raciocínio lógico** é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+
+- Classificação
+  - Indução - Ciências experimental
+  - Dedução - Ciências exatas
+  - Abdução - Processo investigativo e Diagnostico
+
+Indução(Fenômeno observado) -> Leis e Teorias -> Dedução(Previsões e explicações) -> Abdução (Apartir de uma conclusão se tem uma Premissa)
+
+> Ex.: A grama está molhada, logo deve ter chovido.
+
+ ![Raciocínio Lógico](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-50.gif).
+
+
+> Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho e esquerda; e que a mãe está do lado direito de Sérgio.
+
+  ```mermaid
+graph TD;
+    A{PAI-SERGIO}-->B{MÃE-TERESA};
+    A-->C{FILHO-ROBERTO};
+    B-->D{FILHA-FERNANDA};
+    C-->D;
+```
+
+Melhoramento = Ato de aperfeiçoar = Aprimoramento = Refinamento
+
+```
+A partir de uma solução, determinar pontos de melhora e refinamento
+```
+
+#### Ato de aperfeiçoar
+  - Melhor uso de recursos
+    - Encontrar solução eficiente 
+    - Otimizar processos
+
+  - Melhorar códigos e algoritmos
+    - Simplificar linhas de códigos
+    - Funções bem definidas
+
+
+
+
+
