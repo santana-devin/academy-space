@@ -7,9 +7,9 @@
 - [X] Habilidade complementares
 - [X] Pilares: Decomposição
 - [X] Pilares: Padrões
-- [ ] Pilares: Abstração
-- [ ] Pilares: Algoritmos
-- [ ] Estudo de caso conceitual: perdido
+- [X] Pilares: Abstração
+- [X] Pilares: Algoritmos
+- [X] Estudo de caso conceitual: perdido
 - [ ] Estudo de caso aplicado: Soma de um intervalo
 - [ ] Estudo de caso aplicado: Adivinhe um número
 
@@ -443,8 +443,7 @@ Como construir um algoritmo?
 - Pseudocódigo - Portugol - Passos a serem seguidos - Regras definidas
 
 
-Multiplicação de dois  
-números:  
+Multiplicação de dois números:  
 Passo 1 – recebe os valores  
 Passo 2 – Multiplica  
 Passo 3 – Imprime resultado  
@@ -456,6 +455,52 @@ Passo 3 – Imprime resultado
 Passo 4 – Regra de aprovação  
 Passo 5 – Imprima o resultado  
 
+## Etapa 7 Estudo de caso conceitual: perdido
+// Primeiros passos para começar a programar/ Pensamento Computacional/
+
+##### Perdido
+Como resolver o problema utilizando o pensamento computacional?
+
+  - Identificar mecanismos
+  - Recursos comuns
+  - Detalhes mais importantes
+
+Sobrevivência
+  - Água
+  - Comida
+  - Abrigo
+
+> Decomposição do problema original
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-161.gif).
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-162.gif).
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-163.gif).
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-164.gif).
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-165.gif).
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-166.gif).
+
+
+#### Determinar instruções passo a passo para cozinhar
+
+So far so good …  
+  - Decomposição
+  - Reconhecimento de padrões
+  - Abstração
+Próximo passo ...
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-170.gif).
+
+
+Mesmo processo para
+  - Encontrar água
+  - Construir abrigo
+  - Máximizar chances de resgate
+  - ...
 
 
 
