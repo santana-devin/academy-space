@@ -11,7 +11,7 @@
 - [X] Pilares: Algoritmos
 - [X] Estudo de caso conceitual: perdido
 - [X] Estudo de caso aplicado: Soma de um intervalo
-- [ ] Estudo de caso aplicado: Adivinhe um número
+- [X] Estudo de caso aplicado: Adivinhe um número
 
 ##### Introdução à lógica de progrmação
 - [ ] O que é lógica?
@@ -593,10 +593,68 @@ Final = total x resultado_parcial
 Passo 5 – Imprima o resultado   
 
 
+## Etapa 9 Estudo de caso aplicado: adivinhe o número
+// Primeiros passos para começar a programar/ Pensamento Computacional/
+
+#### Adivinhe o número
+
+Ex: adivinhe o número
+
+O problema consiste em determinar o número escolhido por uma pessoa dentro de um intervalo.
+
+Perguntas com respostas de sim e não.
+
+Possível solução  
+Ex: adivinhe o número  
+O número é 1?  
+O número é 2?  
+O número é 3?  
+...  
 
 
+Possível solução  
+Ex: adivinhe o número  
+O número é 1?  
+O número é 2?  
+O número é 3?  
+...  
+
+ - Ineficiente
+ - Desperdício de tempo
+
+Possível solução (Numero de tentativas muito menor)
+Ex: adivinhe o número 
+P: O número é maior que 50?
+R: Não.
+P: O número é menor que 20?
+R: Sim.
+…
+
+até encontrar o número
 
 
+Ex: Busca binária  
+Método de busca  
+Mais eficiente que busca por varredura  
+3 - 5 - 6 - (9) - 22 - 27 - 45 - 55  
+20 - (27) - 45 - 55  
+(20)  
+
+Passo 1 – Ordenar o vetor  
+Passo 2 – Módulo de L/2  
+Passo 3 – Acessar estrutura  
+Passo 4 – Comparar valores  
+Passo 5 – Repita até encontrar o número  
+Passo 6 – Imprima "Busca bem sucedida"  
+
+#### Habilidade
+Como aprimorar essa habilidade?
+
+Permitindo que seus alunos expliquem suas decisões e seu  
+processo de desenvolvimento ...  
+(Brennan & Renesck)  
+
+Para um problema proposto
 
 
 
