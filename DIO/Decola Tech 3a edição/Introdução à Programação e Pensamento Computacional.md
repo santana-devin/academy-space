@@ -383,4 +383,79 @@ Em resumo ...
 > Onde se aplicam:**Machine Learning**, **Redes Neurais**, **Inteligência Artificial**, **Ciência de dados**.
 
 
+## Etapa 6 Pilares: Algortimos
+// Primeiros passos para começar a programar/ Pensamento Computacional/
+
+  - Energia
+  - Trabalhador
+  - Eficiência
+  - Rapidez
+
+Precisa de instruções detalhadas  
+Não opera sozinho
+
+#### Processamento de dados
+Programas - O computador recebe,  manipula e armazena dados. O programa são as instruções.
+
+Processo de resolução de problemas "step by setp" utilizando instruções
+
+Instruções
+  - O que presisa ser feito
+  - Qual a ordem de execução
+
+> As instruções devem ser entendidas pelo humano e maquina.
+
+#### Desenvolvimento do Programa
+  Análise   
+    - Estudo e definição dos dados de entrada e saída(Instruções detalhadas)  
+    
+  Algoritmo   
+    - Descreve o problema por meio de ferramentas narrativas, fluxograma, ou pseudocódigo  
+  
+  Codificação  
+    - O algoritmo é codificado de acordo com a linguagem de programação escolhida  
+    
+ 
+>  - Sequência de passos com objetivo definido
+>  - Execução de tarefas específicas
+>  - Conjunto de operações que resultam em uma sucessão finita de ações  
+
+#### Exemplos do que pode ser feito um algoritimo
+  - Preparar uma sanduiche
+  - Tocar uma lampada
+  - Fazer uma receita de bolo
+  - Trajato ao trabalho
+
+Instruções executadas passo a passo para concluir a tarefa
+
+
+Como construir um algoritmo?
+  - Compreenção do problema - Pontos mais importantes
+  - Definição dados de entrada - Dados fornecidos e Cenário
+  - Definir processamento - Cálculos e Restrições
+  - Definir dados de saída - Após processamento
+  - Utilizar um método de construção - Construção e refinamento do algoritmo
+  - Teste e diagnóstico
+
+#### Construção de algoritmos
+- Narrativa - Utilização da linguagem natural Diversas interpretações possíveis - Sem conceitos novos
+- Fluxograma - Utilização de símbolos pré-definidos - Conhecimento prévio da estrutura e símbolos - Simples entendimento
+- Pseudocódigo - Portugol - Passos a serem seguidos - Regras definidas
+
+
+Multiplicação de dois  
+números:  
+Passo 1 – recebe os valores  
+Passo 2 – Multiplica  
+Passo 3 – Imprime resultado  
+
+Média de alunos:  
+Passo 1 – recebe os valores  
+Passo 2 – Calcula a média  
+Passo 3 – Imprime resultado  
+Passo 4 – Regra de aprovação  
+Passo 5 – Imprima o resultado  
+
+
+
 
