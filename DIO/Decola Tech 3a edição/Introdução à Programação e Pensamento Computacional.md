@@ -10,7 +10,7 @@
 - [X] Pilares: Abstração
 - [X] Pilares: Algoritmos
 - [X] Estudo de caso conceitual: perdido
-- [ ] Estudo de caso aplicado: Soma de um intervalo
+- [X] Estudo de caso aplicado: Soma de um intervalo
 - [ ] Estudo de caso aplicado: Adivinhe um número
 
 ##### Introdução à lógica de progrmação
@@ -501,6 +501,107 @@ Mesmo processo para
   - Construir abrigo
   - Máximizar chances de resgate
   - ...
+
+## Etapa 8 Estudo de caso aplicado: soma de um intervalo
+// Primeiros passos para começar a programar/ Pensamento Computacional/
+
+### Soma de intervalo
+// Solução ineficiente!
+
+Ex: soma de n° entre 1 e 200  
+1+2  
+1+3  
+1+4  
+1+5 ...  
+
+
+// Outra forma de expressar a solução  
+Ex: soma de n° entre 1 e 200  
+200 + 1  
+199 + 2  
+198 + 3  
+197 + 4 ...  
+
+
+Ex: soma de n° entre 1 e 200
+
+##### Decomposição
+200 + 1  
+199 + 2  
+198 + 3  
+197 + 4 ...  
+
+##### Padrão  
+200 + 1 = 201  
+199 + 2 = 201  
+198 + 3 = 201  
+197 + 4 = 201 ...  
+
+Como espressar de forma genetalista?
+
+Ex: soma de n° entre 1 e 200  
+200 + 1 = 201  
+199 + 2 = 201  
+198 + 3 = 201  
+197 + 4 = 201  
+...  
+
+Valor se repete  
+Quantas vezes?  
+200/2 = 100  
+Resultado  
+201 x 100 = 20.100  
+
+Expressar em variáveis  
+Ex: soma de n° entre x e y  
+[x, y] -> intervalo   => 1 e 200
+
+
+Ex: soma de n° entre x e y  
+[x, y] -> intervalo   -> 1 e 200  
+
+y+x = resultado parcial  
+(y-1) + (x+1) = resultado_parcial  
+…  
+
+200 + 1 = 201  
+199 + 2 = 201  
+
+
+Expressar em variáveis  
+Ex: soma de n° entre x e y  
+[x, y] -> intervalo  
+
+y+x = resultado parcial  
+(y-1) + (x+1) = resultado_parcial  
+…  
+
+y/2 = total  
+200/2 = 100  
+
+total x resultado parcial = resultado  
+100 x 201 = 20.100  
+
+##### Algoritimo
+Passo 1 – Recebe os valores (x e y)   
+Passo 2 – Resolva:    
+y/2 = total   
+Passo 3 – Resolva:    
+y+x = resultado_parcial   
+Passo 4 – Ache o total    
+Final = total x resultado_parcial   
+Passo 5 – Imprima o resultado   
+
+
+
+
+
+
+
+
+
+
+
 
 
 
