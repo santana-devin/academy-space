@@ -884,11 +884,76 @@ a + b = c
  - Atribuição de um ou mais caracteres
  - Primeira letra - não número
  - Sem espaços em branco
- - Vedado
+ - Vetado
     - Utilização de palavras reservadas
  - Caracteres e números
 
 #### Papéis de uma variável
   - Ação - Modificaçãode estado
   - Controle - Viagiada, Controle
+
+## Etapa 2 Instruções primitivas
+// Primeiros passos para começar a programar/  
+Fundamentos de algoritmos
+
+Cálculo matemáticos - Operadores  (Binário ou Unário)
+ - Variáveis  
+ - Constantes  
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/Overview-258.gif).
+
+
+Area = pi*raio²
+
+#### O que são instruções?
+Definição formal  
+Instruções são linguagem de palavras-chave (vocabulário) de  
+uma determinada de programação que tem por finalidade  
+comandar um computador que irá tratar os dados  
+
+#### Linguagens de programação  
+Notação -> Operações
+
+Janela  - Protugues
+Window  - Ingles
+Ventana - Espanhol
+
+#### Outros conceitos
+Entrada, processamento e saída
+
+
+### Exemplo
+Média escolar  
+Início programa:  
+```
+Nota1 = 5
+Nota = 8
+Resultado = 0
+Resultado = (Nota1 + Nota2)/2
+Escreva resultado
+Fim programa
+Saída:6.5
+
+```
+
+> Estrutura sequencial
+
+E se quisermos verificar se foi aprovado ou não?
+
+## Etapa 3 Estruturas condicionais e operadores
+// Primeiros passos para começar a programar/  
+Fundamentos de algoritmos  
+
+#### Estrutura Condicional
+
+Condição -> Estado de uma pessoa ou coisa
+
+
+Condicional
+  - Que expressão uma condição ou suposição
+  - Contem ou implica uma suposição ou hipótese
+
+
+
+
 
