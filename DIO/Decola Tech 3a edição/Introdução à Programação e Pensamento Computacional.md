@@ -14,8 +14,8 @@
 - [X] Estudo de caso aplicado: Adivinhe um número
 
 ##### Introdução à lógica de progrmação
-- [ ] O que é lógica?
-- [ ] Técnicas de lógica de programação
+- [X] O que é lógica?
+- [X] Técnicas de lógica de programação
 
 #### Fundamentos de algoritimos
 - [ ] Tipologia e variáveis
@@ -655,6 +655,153 @@ processo de desenvolvimento ...
 (Brennan & Renesck)  
 
 Para um problema proposto
+
+
+# Aula 2: Introdução à Lógica de programação
+// Primeiros passos para começar a programar
+
+### Objetivo Geral
+
+Esta aula foca em apresentar o conceito de lógica  
+aplicada à programação, como um processo de pensamento  
+atrelado ao conceito de algoritmos e resolução de  
+problemas.  
+
+
+#### Percurso
+Etapa 1 O que é Lógica?  
+Etapa 2 Técnicas de lógica da programação  
+Etapa 3 Breve história da computação  
+
+#### O que é Lógica?
+Primeiros passos para começar a programar
+
+Definição formal  
+"Problema é uma questão que foge a uma determinada regra,  
+ou melhor é um desvio de percurso, o qual impede de atingir  
+um objetivo com eficiencia e eficácia."  
+
+
+
+```mermaid
+  graph TD;
+      A[PROBLEMA]---B[QUESTÃO];
+      A---C[NUMEROSAS SOLUÇÕES];
+      A---D[PROPOSTAS DUVIDOSAS];
+      A---E[OBJETO DE DISCUÇÃO];
+```
+
+**Definição formal de lógica**  
+"Parte da filosofia que trata das formas do pensamento  
+em geral (dedução, indução, hipótese, inferência etc.) e  
+das operações intelectuais que visam à determinação do  
+que é verdadeiro ou não."  
+
+
+```mermaid
+  graph TD;
+      A[Lógica]---B[Forma como desencadeiam  acontecimentos];
+      A---C[Organização coesa];
+      A---D[Forma de raciocínio];
+      A---E[Ordenação que segue convenções];
+```
+
+**Lógica**  
+"Organização e planejamento das instruções, assertivas em  
+um algoritmo, a fim de viabilizar a implantação de  
+um programa."  
+
+Percebe que essa  
+definição se aplica no  
+seu cotidiano?  
+
+**Falta de costume**  
+Seres humanos podem prever  
+comportamentos, computadores não.  
+Instruções detalhadas  
+
+**Por que entender a lógica em programação?**
+
+"Everybody in this country should learn  
+how to program a computer because it  
+teaches you how to think."  
+Steve Jobs 
+
+"Todos neste país deveriam aprender  
+como programar um computador porque  
+ensina a pensar."  
+Steve Jobs   
+
+## Etapa 2 Técnicas de Lógica de Programação
+// Primeiros passos para começar a programar/  
+Introdução à Lógica de Programação  
+
+
+#### Técnicas
+ - Planta baixa
+ - Projeto
+ - Planejamento
+
+> Seguem a lógica e determinam as instruções
+
+
+#### Técnica Linear
+  - Modelo tradicional
+  - Não tem vínculo
+    - Estrutura hierárquica
+    - Programação de computadores
+
+***fonte: editoraconstruir.com.br***
+
+Modelos de desenvolvimento e resolução
+
+
+Execução sequenciada  
+Recursos limitados  
+Única dimensão  
+
+### Técnica Estruturada
+
+Organização, disposição e ordem dos elementos essenciais  
+que compõem um corpo (concreto ou abstrato)  
+
+Modelos de desenvolvimento e resolução  
+
+**Processamento de dados**
+
+ - Objetivo
+  - Escrita -> PROGRAMAS
+  - Entendimento
+  - Validação
+  - Manutenção
+... Facilitar
+
+#### Técnica Estruturada
+  Arcordar -> Fazer café -> Café da manhã
+  
+  
+#### Técnica Modular
+- Partes independentes
+  - Módulo 1
+  - Módulo 3
+  - Módulo 2
+  - Módulo 4
+***Controlada por um conjunto de regras***
+Modelo padrão  
+Dados de entrada -> Processo de transformação -> Dados de saida  
+
+- Metas
+  - Simplificação
+  - Decompor o problema
+  - Verificão do módulo
+
+  - Regras
+    - Módulo - Acordar
+    - Modulo - Preparar bebida
+    - Módulo - Tomar cafe da manhã
+
+
+
 
 
 
