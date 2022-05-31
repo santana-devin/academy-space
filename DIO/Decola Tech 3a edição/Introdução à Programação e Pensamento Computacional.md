@@ -18,7 +18,7 @@
 - [X] Técnicas de lógica de programação
 
 #### Fundamentos de algoritimos
-- [ ] Tipologia e variáveis
+- [X] Tipologia e variáveis
 - [ ] Instruções primitivas
 - [ ] Estruturas condicionais e operadores
 - [ ] Estruturas de repetição
@@ -795,18 +795,100 @@ Dados de entrada -> Processo de transformação -> Dados de saida
   - Decompor o problema
   - Verificão do módulo
 
-  - Regras
-    - Módulo - Acordar
-    - Modulo - Preparar bebida
-    - Módulo - Tomar cafe da manhã
+
+ - Regras
+  - Módulo - Acordar
+  - Modulo - Preparar bebida
+  - Módulo - Tomar cafe da manhã
 
 
 
+## Aula 3: Fundamentos de algoritmos
+// Primeiros passos para começar a programar
+
+#### Objetivo
+Nesta aula serão apresentados os conceitos básicos para  
+o correto entendimento de algoritmos.  
+Esses conceitos como, variáveis, tipos de  
+dados, instruções, condições, entre  
+outros temas relacionados.  
+  
+
+#### Percurso
+Etapa 1 Tipologia e variáveis  
+Etapa 2 Instruções primitivas  
+Etapa 3 Estruturas condicionais e operadores  
+Etapa 4 Estruturas de repetição  
+Etapa 5 Vetores e matrizes  
+Etapa 6 O que são funções?  
+Etapa 7 Instruções de entrada/saída  
 
 
+## Etapa 1 Tipologias e variáveis
+// Primeiros passos para começar a programar/  
+Fundamentos de algoritmos
 
+### Variáveis
+Qual a função do computador?
 
+```mermaid
+  graph TD;
+      A[Informação]---B[Dados];
+      A---C[Instrução];
+      B---D[Tratadas e processadas]
+      C---E[Operações]
+```
+#### Tipos de dados
+Tratadas e processadas
 
+  - Numéricos
+  - Caractéres
+  - Lógicos
 
+#### Tipos - Numérico
+Inteiros - 58, -50, -49, 32, -10, -5, 1, 5, 50, 60 , 800  
+Reais - 5.95, 9.54, -8.8, -0.555 ...  
+  0, 1, 5, 50, 60 , 800, ...  
+  -58, -50, -49, 32, -10, -5  
 
+#### Tipo - Caracteres  
+  "Programação" 
+  "PROGRAMAÇÃO"  
+  "KU*&NH53g"  
+  "Fone:(25)99865-5741"  
+  "Rua alameda, n°45"  
+  "!@##$%"
+  
+#### Tipo - Lógico (Booleano)
+Verdadeiro - 1  
+Falso - 0  
+
+Português estruturado  
+Verdadeiro .V ou .S  
+.Falso .F ou .N  
+
+**O que é uma variável?**  
+  - Mutável
+  - Possui variações
+  - Inconstante
+  - Incerto
+  - Instável
+
+> Variável - pode assumir qualquer um dos valores de um determinado conjunto de valores  
+
+a - b = d  
+a + b = c    
+
+#### Regras
+
+ - Atribuição de um ou mais caracteres
+ - Primeira letra - não número
+ - Sem espaços em branco
+ - Vedado
+    - Utilização de palavras reservadas
+ - Caracteres e números
+
+#### Papéis de uma variável
+  - Ação - Modificaçãode estado
+  - Controle - Viagiada, Controle
 
