@@ -294,5 +294,8 @@ __tests__
 ## Aula 5 Criando uma tela de Profile
 // Conhecendo o View e Text
 
+x-special/nautilus-clipboard
+copy
+file:///home/santana/%C3%81rea%20de%20Trabalho/emulador-error.png
 
 
