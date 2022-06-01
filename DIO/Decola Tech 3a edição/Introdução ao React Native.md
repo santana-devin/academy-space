@@ -15,8 +15,8 @@
   - [X] Expondo o adb no terminal
   - [X] Uma alternativa ao Android Studio: Expo  
 #### Criando Um projeto
-  - [ ] Iniciando um projeto com a CLI do RN
-  - [ ] Estrutura de pastas  
+  - [X] Iniciando um projeto com a CLI do RN
+  - [X] Estrutura de pastas  
 #### Criando uma tela de profile
   - [ ] Conhecendo o View e Text
   - [ ] Conhecendo o StyleSheet
@@ -294,8 +294,15 @@ __tests__
 ## Aula 5 Criando uma tela de Profile
 // Conhecendo o View e Text
 
-x-special/nautilus-clipboard
-copy
-file:///home/santana/%C3%81rea%20de%20Trabalho/emulador-error.png
+- Projeto Profile
+  - View
+  - Text
+  - SafeAreaView
+  - Image
+  - Flex-box
+  - Style (StyleSheet)
+  - Pressable
+  - Linking API
+  - Add código nativo no AndroidManifest.xml para abrir link
 
 
