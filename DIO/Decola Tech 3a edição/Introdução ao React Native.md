@@ -265,10 +265,34 @@ https://developer.android.com/studio/run/emulator-commandline?hl=pt-br
 > Preciona d
 
 
+// Video de Estrutura de pasta
+```
+.android  
+app.json  
+.buckconfig  
+.eslintrc.js  
+Gemfile  
+.gitignore  
+ios  
+node_modules  
+package-lock.json  
+.ruby-version  
+.watchmanconfig  
+App.js  
+babel.config.js  
+.bundle  
+.flowconfig  
+Gemfile.lock  
+index.js  
+metro.config.js  
+package.json  
+.prettierrc.js  
+__tests__
 
+```
 
-
-
+## Aula 5 Criando uma tela de Profile
+// Conhecendo o View e Text
 
 
 
