@@ -4,16 +4,16 @@
   - [X] Apresentação
   - [X] Conhecendo o React Native  
 #### Conhecendo a documentação  
-  - [ ] Componentes
-  - [ ] API
-  - [ ] Blog e comunidade  
+  - [X] Componentes
+  - [X] API
+  - [X] Blog e comunidade  
 #### Setup React Native
-  - [ ] Instalação Choco, Node e Java
-  - [ ] Instalando Yarn
-  - [ ] Instalando Android Studio
-  - [ ] Criando emulador
-  - [ ] Expondo o adb no terminal
-  - [ ] Uma alternativa ao Android Studio: Expo  
+  - [X] Instalação Choco, Node e Java
+  - [X] Instalando Yarn
+  - [X] Instalando Android Studio
+  - [X] Criando emulador
+  - [X] Expondo o adb no terminal
+  - [X] Uma alternativa ao Android Studio: Expo  
 #### Criando Um projeto
   - [ ] Iniciando um projeto com a CLI do RN
   - [ ] Estrutura de pastas  
@@ -142,18 +142,73 @@ https://reactnative.dev/docs/environment-setup
 
 $HOME/.bashrc
 
-export ANDROID_SDK_ROOT=$HOME/Library/Android/sdk
-export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
-export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
+export ANDROID_SDK_ROOT=$HOME/Library/Android/sdk  
+export PATH=$PATH:$ANDROID_SDK_ROOT/emulator  
+export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools  
 
 
-export ANDROID_HOME=${HOME}/Android/Sdk
-export PATH="${ANDROID_HOME}/tools:${PATH}"
-export PATH="${ANDROID_HOME}/emulator:${PATH}"
-export PATH="${ANDROID_HOME}/platform-tools:${PATH}"
+export ANDROID_HOME=${HOME}/Android/Sdk  
+export PATH="${ANDROID_HOME}/tools:${PATH}"  
+export PATH="${ANDROID_HOME}/emulator:${PATH}"  
+export PATH="${ANDROID_HOME}/platform-tools:${PATH}"  
 
+### // Instalando NodeJs
 
-// Uma alternativa ao Android Studio: Expo
+Para extrair o arquivo diretamente para o diretório /opt, execute o seguinte comando:
+
+> tar xf node-v*-linux-x64.tar.xz --directory /opt
+
+Caso você não tenha permissão de acesso a esse diretório, você pode executar o seguinte comando:
+
+> sudo chmod -R 755 /opt
+
+Agora será necessário adicionar as entradas para os comandos do Node.js funcionar no seu sistema operacional.
+
+Abra o arquivo .profile, que está no seu diretório home. Neste exemplo vou utilizar o editor de textos VS Code, mas você pode utilizar qualquer um que estiver disponível no sistema, como o Nano ou Vim.
+
+Execute no terminal:
+
+> code ~/.profile
+
+E adicione o seguinte texto no final do arquivo.
+
+# NodeJS
+
+> export NODEJS_HOME=/opt/node-vx.y.z-linux-x64/bin  
+> export PATH=$NODEJS_HOME:$PATH  
+> Onde x.y.z deve ser a versão que você acabou de extrair para o diretório /opt.  
+
+Também será preciso adicionar as mesmas linhas no arquivo .bashrc ou no .zshrc, que também ficam no seu diretório home.
+
+Será o mesmo processo:
+
+Abrir o arquivo .bash ou .zshrc via editor de textos:
+
+> code ~/.bashrc
+
+E adicione o conteúdo no final do arquivo.
+
+```
+# NodeJS
+export NODEJS_HOME=/opt/node-vx.y.z-linux-x64/bin  
+export PATH=$NODEJS_HOME:$PATH  
+```
+Lembre-se de corrigir x.y.z para a versão que você acabou de extrair para o diretório /opt.
+
+Será necessário recarregar o arquivo .profile e o .bash/zshrc no seu terminal, para isso você pode fechar e abrir o terminal ou executar o seguinte comando:
+
+> . ~/.profile ~/.bashrc
+
+Com isso temos uma instalação do Node.js via .tar.xz no Linux.
+
+Conferindo a se deu tudo certopermalink
+Para verificar se o Node.js está corretamente instalado no seu sistema operacional, execute o seguinte comando no terminal:
+
+> node -v
+
+Isso irá retornar a versão que você acabou de instalar.
+
+###  // Uma alternativa ao Android Studio: Expo
 
 Supondo que você tenha o Node 14 LTS ou superior instalado, você pode usar npm para instalar o utilitário de linha de comando Expo CLI:
 
@@ -167,8 +222,8 @@ cd AwesomeProject
 npm start # you can also use: expo start
 ```
 
-
-
+## Aula 4 Criando um projeto
+// Iniciando um projeto com a CLI do RN
 
 
 
