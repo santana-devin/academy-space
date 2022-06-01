@@ -92,6 +92,88 @@ Muitas plataformas , um React. Crie versões de componentes específicas da plat
 - Setup: https://reactnative.dev/docs/environment-setup
 
 
+## Aula 2 Conhecendo a documentação
+#### // Componentes  
+
+> https://reactnative.dev/docs/components-and-apis
+
+#### // API 
+
+> https://reactnative.dev/docs/accessibilityinfo
+
+#### // Blog e Comunidade
+
+> https://reactnative.dev/blog
+
+#### Seções
+- Destaques de 0,68
+- Aderindo à nova arquitetura
+- Atualizações do site
+- Interessado em ajudar o React Native a estabilizar novos lançamentos?
+
+#### Acompanhar
+  https://github.com/facebook/react-native
+
+- Issues
+ -Pull requests
+
+
+## Aula 3 Setup Reacti native
+// Instalação Choco, Node e java  
+
+https://reactnative.dev/docs/environment-setup
+
+// Instalando Yarn
+
+https://yarnpkg.com/getting-started/install
+
+// Instalando Android Studio
+
+https://developer.android.com/
+
+// Criando Emulador
+
+
+// Exportando o adb no terminal
+
+// Configurar variaveis de ambiente 
+
+https://reactnative.dev/docs/environment-setup
+
+$HOME/.bashrc
+
+export ANDROID_SDK_ROOT=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
+export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
+
+
+export ANDROID_HOME=${HOME}/Android/Sdk
+export PATH="${ANDROID_HOME}/tools:${PATH}"
+export PATH="${ANDROID_HOME}/emulator:${PATH}"
+export PATH="${ANDROID_HOME}/platform-tools:${PATH}"
+
+
+// Uma alternativa ao Android Studio: Expo
+
+Supondo que você tenha o Node 14 LTS ou superior instalado, você pode usar npm para instalar o utilitário de linha de comando Expo CLI:
+
+```
+npm install -g expo-cli
+
+
+expo init AwesomeProject
+
+cd AwesomeProject
+npm start # you can also use: expo start
+```
+
+
+
+
+
+
+
+
 
 
 
