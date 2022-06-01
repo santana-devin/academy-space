@@ -225,8 +225,44 @@ npm start # you can also use: expo start
 ## Aula 4 Criando um projeto
 // Iniciando um projeto com a CLI do RN
 
+# adb devices
 
+// Iniciar o emulador diretamento pelo Android Studio
 
+https://developer.android.com/studio/run/emulator?hl=pt-br#runningemulator
+
+// Iniciar o emulador pela linha de comando
+
+https://developer.android.com/studio/run/emulator-commandline?hl=pt-br
+
+> // Listar emuladores
+> #emulator -list-avds
+> // Iniciar emuladores
+> emulator -avd avd_name [ {-option [value]} … ]  
+> ou  
+> emulator @avd_name [ {-option [value]} … ]  
+
+// Criar projeto -
+
+```
+#mkdir projetos  
+#cd projetos  
+
+#npx react-native init dio-rn
+
+#npx react-native run-android
+```
+# Erro no Emulador
+
+![Overview](https://raw.githubusercontent.com/santana-devin/academy-space/main/DIO/Decola%20Tech%203a%20edi%C3%A7%C3%A3o/images/emulador-error.png).
+
+> // Com esse comando funcionou
+> #npm start
+> // Mensagem
+> To reload the app press "r"
+> To open developer menu press "d"
+>
+> Preciona d
 
 
 
