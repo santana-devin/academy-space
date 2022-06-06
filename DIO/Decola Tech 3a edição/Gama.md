@@ -995,3 +995,16 @@ NOTA : A Avanade reserva-se o direito, a seu exclusivo critério, de modificar o
 # Clientes
 
 https://www.avanade.com/en/clients
+
+
+# Blogs
+### Oferecendo a experiência de compra conectada: como a Microsoft e a Avanade estão reimaginando o varejo
+
+https://azure.microsoft.com/en-us/blog/delivering-the-connected-shopping-experience-how-microsoft-and-avanade-are-reimagining-retail/
+
+### Avanade e Databricks fazem parceria para fornecer soluções de dados e IA com Azure Databricks
+https://databricks.com/blog/2020/06/19/avanade-and-databricks-partner-to-deliver-data-and-ai-solutions-with-azure-databricks.html
+
+
+
+
