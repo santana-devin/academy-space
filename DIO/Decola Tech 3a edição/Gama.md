@@ -1056,3 +1056,27 @@ Rua Alexandre Dumas, 2.051
 Ch. Santo Antonio
 São Paulo - SP 04717-004
 Brasil
+
+Limite de responsabilidade
+A Huddle não tem a intenção e nem o interesse de estabelecer um perfil psicológico ou comportamental permanente/definitivo das pessoas que passam pelo nosso método de Seleção por Performance.
+
+Assim sendo, compreendemos que cada indivíduo é muito complexo e deve ser analisado por diversas abordagens complementares à nossa ferramenta, como dinâmicas em grupo, painéis de apresentação e entrevistas por competência.
+
+Enfatizamos que os insights gerados por meio das nossas ferramentas devem ser complementados por outros dados, não devendo ser a fonte exclusiva e sobrepondo conclusões geradas por outras abordagens de avaliação.
+
+A escolha dos participantes que seguirão nas etapas seguintes do processo seletivo é inteiramente realizada pelos avaliadores e recrutadores da organização.
+
+Toda comunicação com as pessoas é de inteira responsabilidade da empresa contratante e nós não detemos a lista de aprovados e reprovados na própria etapa que conduzimos. Também não exercemos nenhum controle ou influência sobre esta decisão.
+
+Assim sendo, reiteramos que não emitimos nenhum informativo para as pessoas sobre sua continuidade, ou não, no processo seletivo.
+
+Elegibilidade
+A escolha dos participantes que seguirão nas etapas seguintes do processo seletivo é inteiramente realizada pelos avaliadores e recrutadores da organização.
+
+Toda comunicação com as pessoas é de inteira responsabilidade da empresa contratante e nós não detemos a lista de aprovados e reprovados na própria etapa que conduzimos. Também não exercemos nenhum controle ou influência sobre esta decisão.
+
+Assim sendo, reiteramos que não emitimos nenhum informativo para as pessoas sobre sua continuidade, ou não, no processo seletivo.
+
+
+Metodologia
+Utilizamos como referência o estudo realizado pela TTI Success International™, que contempla 23 competências consideradas universais para as empresas. Filtramos e agrupamos essas competências, conectando-as com a realidade de um cargo de início de carreira e também com aquilo que é possível ser analisado durante o jogo.
