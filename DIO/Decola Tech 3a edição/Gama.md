@@ -1006,5 +1006,22 @@ https://azure.microsoft.com/en-us/blog/delivering-the-connected-shopping-experie
 https://databricks.com/blog/2020/06/19/avanade-and-databricks-partner-to-deliver-data-and-ai-solutions-with-azure-databricks.html
 
 
+# Melhor em todo o mundo
+Recebemos também diversos prêmios em todo o mundo pela nossa excelência nos negócios e satisfação dos clientes.
 
+Austrália: Microsoft Country Partner of the Year 2020, Blue Prism Global Innovation Partner Award 2020, Sitecore Experience Awards 2018 Best Business ROI for Open Universities, Sitecore Ultimate Experience Award for Open Universities 2018
+
+Brasil: Microsoft Latam Azure Influencer 2019, Microsoft Partner of the Year Awards Dynamics Customer Service 2018, Microsoft Partner of the Year Awards Platform 2018
+
+Canadá: Prêmio Microsoft Canada Enterprise Impact 2020
+
+França: Microsoft Country Partner of the Year 2020
+
+Itália: Microsoft Country Partner of the Year 2018
+
+Japão: Microsoft Dynamics 365 for Finance and Operations Partner of the Year de 2020, Microsoft Artificial Intelligence and Machine Learning Partner of the Year de 2019, Microsoft SAP on Azure Partner of the Year de 2019, Microsoft SAP on Azure Partner of the Year de 2018
+
+Cingapura: Prêmio Microsoft Partner of the Year de 2020
+
+Estados Unidos: Microsoft Eagle Jacket Award for Dynamics 365 de 2020, Microsoft US Dynamics 365 for Field Service Partner of the Year de 2019, Microsoft US Internet of Things Partner of the Year de 2019.
 
