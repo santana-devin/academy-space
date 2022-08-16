@@ -50,17 +50,17 @@ Com isso, nós nos deparamos com um dilema: a adoção da tecnologia não é lin
 
 Durante muito tempo, pensou-se que lidar com os computadores consistia em dominar a tecnologia vigente e aprender suas técnicas e seus fundamentos, pois, assim, você estaria seguro. Mas como isso é possível tendo em vista que parte das pessoas já estão no topo do uso da tecnologia, enquanto outros ainda estão dando os primeiros passos?
 
-```
-Atenção!
-O desespero de diversas instituições gerou o processo mais absurdo: já que todos não podem dispor de tecnologia, então vamos abrir mão dela. Isso só aumentou a segregação, a fragilidade de grupos sociais que não têm acesso à tecnologia. Quando fazemos isso, negamos a vários profissionais a possibilidade de diminuir essas diferenças.
-```
+
+>Atenção!
+>O desespero de diversas instituições gerou o processo mais absurdo: já que todos não podem dispor de tecnologia, então vamos abrir mão dela. Isso só aumentou a segregação, a fragilidade de grupos sociais que não têm acesso à tecnologia. Quando fazemos isso, negamos a vários profissionais a possibilidade de diminuir essas diferenças.
+
 
 
 Porém, o que pode ser feito? Se não aprendermos a usar a tecnologia do momento, se renegarmos a tecnologia para garantir igualdade, qual a solução proposta? Uma ideia é entender o funcionamento básico dos computadores, perceber como funcionam essas máquinas e, independentemente da tecnologia atual, compreender qual o sentido de sua atualização — os computadores estão sempre sendo atualizados, uma vez que o homem precisa constantemente de novas respostas e possibilidades.
 
-```
-Felizmente, qualquer pessoa pode compreender, basicamente, como os computadores funcionam. Nosso objetivo é explorar as qualidades essenciais dos computadores, como eles funcionam, o que eles podem e o que não podem fazer. Este conteúdo não requer nenhum conhecimento prévio em informática.
-```
+
+>Felizmente, qualquer pessoa pode compreender, basicamente, como os computadores funcionam. Nosso objetivo é explorar as qualidades essenciais dos computadores, como eles funcionam, o que eles podem e o que não podem fazer. Este conteúdo não requer nenhum conhecimento prévio em informática.
+
 
 A essência fundamental dos computadores é composta pelas seguintes características:
 
@@ -92,9 +92,8 @@ A descrição de filmes que mostram isso é interessante, como Matrix, Extermina
 ## Humano versus máquina
 E a inteligência artificial? E os robôs que podem ter sentimentos? Em todos esses casos, a equação fundamental se mantém.
 
-```
-O computador possui a capacidade de fazer as ações sobre sequenciamento lógico definido, com um conjunto de variações e velocidades elevadas, conforme são ampliadas as capacidades de armazenamento e processamento. Por outro lado, se os comandos não forem estabelecidos, se os parâmetros não estiverem dispostos e estruturados, a máquina chega a um limite.
-```
+>O computador possui a capacidade de fazer as ações sobre sequenciamento lógico definido, com um conjunto de variações e velocidades elevadas, conforme são ampliadas as capacidades de armazenamento e processamento. Por outro lado, se os comandos não forem estabelecidos, se os parâmetros não estiverem dispostos e estruturados, a máquina chega a um limite.
+
 
 Um dos principais movimentos intelectuais trabalhados pelos gregos foi perceber que, no mundo, existe uma parte física, calculável, com possibilidades amplas, e que, sem essa percepção, não é possível entendê-la — trata-se do mundo físico. Também temos outra parte, que, embora seja proveniente das representações físicas do mundo, não depende delas para a construção dos sujeitos.
 
