@@ -1,5 +1,6 @@
 # Introdução Aos Princípios Fundamentais da Computação
 Prof. Guilherme Dutra Gonzaga Jaime
+ARA0002-2001
 
 
 ### Descrição
@@ -148,8 +149,53 @@ Está correto o que se afirma em
 ![image](https://user-images.githubusercontent.com/60019853/184896370-17b90456-0c68-448e-8ad5-667f2db5dd7f.png)
 
 
+# 2
+
+## Processo de exploração do potencial dos computadores
+Ao final deste módulo, você será capaz de reconhecer o processo de exploração do potencial dos computadores por meio de códigos e algoritmos.
 
 
+### Entre códigos e algoritmos: aprendendo a lógica do computador
+Vamos voltar à dinâmica do entendimento do pensamento computacional. Você está fazendo uma prova de matemática, e o conteúdo é análise combinatória; portanto, aprendeu todas as fórmulas e métricas, basta aplicá-las. Agora, é ler o problema e colocar tudo lá.
 
+
+Se a máquina é extremamente rápida, mas muito tola, como é possível a implementação de tantos recursos úteis nos computadores?
+
+Você repetiu o dia inteiro: 
+
+![image](https://user-images.githubusercontent.com/60019853/185134245-c3b5cddb-c85d-4759-9409-44058e6e912d.png)
+ 
+
+E na hora surge uma dúvida:
+
+>“É uma combinação simples ou com repetição? Não sei, eu só aprendi que essa é a fórmula. Não basta apenas colocar os números, e o resultado será alcançado?”.
+
+Claro que não! Uma fórmula é uma simplificação, e cada um de seus elementos só tem sentido se for observado dentro de um contexto. Demos o exemplo matemático, porém a matemática é apenas uma leitura da vida.
+
+Imagine um motorista que condicionou o seguinte: sinal (farol) amarelo é para parar. Porém, no trânsito, nem todos pensam da mesma forma. Logo, se esse motorista vê um sinal amarelo e para, pode ser que o condutor que vem atrás, por não pensar como ele, não consiga frear. O resultado é a colisão. O ponto é que, para que um computador execute o que você deseja, ele precisa de informações, padrões e leituras, pois só assim ele será capaz de ampliar suas possibilidades de soluções.
+
+#### Comentário
+Os computadores, e incluímos aí o seu celular ou o PC que você usa, têm a mesma dinâmica. Todos receberam informações — processos e procedimentos — para que pudessem executar o que se espera deles. É isso que vamos estudar agora.
+
+# Código
+Para compreendermos o funcionamento de um computador, precisamos entender o que é um código. Então, dentro do computador, temos um corpo de códigos, e eles são apenas uma série de instruções, por exemplo: adicione dias e medidas e compare-os. Você se lembra da equação fundamental, não é mesmo?
+
+
+Um computador corresponde à incapacidade de pensar à velocidade X. Então, o trabalho da máquina consiste em apenas uma série de instruções; ela só executa o que é pedido na ordem em que recebeu as orientações de quem escreveu o código. O computador é capaz de passar por uma sequência de instruções de uma forma incrivelmente rápida. Quem pensa e estrutura, podendo ser cada vez mais complexo ou simples, é o sujeito que programa.
+
+Há uma série de instruções, e o computador apenas caminha através delas, executando cada uma exatamente como instruído. São as famosas palavras executar e rodar, como você já deve ter ouvido. Então, sim, um código é executado de forma muitíssimo rápida, mas as instruções individuais são bastante simples, o que leva a uma pergunta natural:
+
+>Se essas instruções são tão simples, como podemos ter um recurso útil? Ou seja, como tornar o computador capaz de realizar tarefas que dependam de algum nível de inteligência e discernimento?
+
+Vamos tentar algo prático. Usaremos o recurso de redução de olhos vermelhos de fotografias como um exemplo de utilidade do computador. Existem infindáveis exemplos diferentes, como enviar um e-mail, assistir a um vídeo on-line ou qualquer outra tarefa que executamos em nossos computadores diariamente.
+
+Que tal, agora, pensarmos nos filtros para maquiagem? Mas isso serve para quê? Para atender aos desejos do usuário. Diverte, faz rir, aumenta a autoestima. A programação não julga, não cria a demanda; ela atende à demanda. Embora receba as instruções e realize as tarefas, a utilidade é do usuário que precisava daquilo.
+
+
+Sempre que você pensar em um código, deve imaginar o seguinte: se ele foi criado e, principalmente, se alcança um grande número potencial de utilização, não foi o computador que evoluiu, mas a sociedade. Alguém captou uma demanda e observou que a máquina, que a criação de um código, poderia suprir essa carência, nem que fosse fazer rir.
+
+O que liga esses dois lados da essência de um computador: a demanda humana e a necessidade de criação de um código para alcançar a solução? A resposta é a seguinte: programadores.
+
+Voltemos ao exemplo dos olhos vermelhos. Um programador de computador talvez tenha tido a seguinte ideia: “Seria legal se os computadores fossem capazes de reduzir os olhos vermelhos de fotografias, pois esse defeito é meio macabro, e eu fico desconfortável ao vê-lo”. Essa é uma ótima ideia! Trata-se de um discernimento, uma escolha humana que atende a seus anseios: deveríamos ter redução de olhos vermelhos. Assim, o programador de computador pensa em uma maneira de tornar isso possível. Resumidamente, temos as seguintes etapas:
 
 
