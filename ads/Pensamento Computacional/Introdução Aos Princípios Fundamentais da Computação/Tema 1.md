@@ -199,3 +199,46 @@ O que liga esses dois lados da essência de um computador: a demanda humana e a 
 Voltemos ao exemplo dos olhos vermelhos. Um programador de computador talvez tenha tido a seguinte ideia: “Seria legal se os computadores fossem capazes de reduzir os olhos vermelhos de fotografias, pois esse defeito é meio macabro, e eu fico desconfortável ao vê-lo”. Essa é uma ótima ideia! Trata-se de um discernimento, uma escolha humana que atende a seus anseios: deveríamos ter redução de olhos vermelhos. Assim, o programador de computador pensa em uma maneira de tornar isso possível. Resumidamente, temos as seguintes etapas:
 
 
+O programador procura a cor vermelha na foto e, talvez, checaríamos se ela tem uma forma arredondada.
+
+timeline
+Em seguida, o programador precisa pensar em uma forma de desempenhar cada um desses passos e escrever um algoritmo em instruções tão simples, tornando possível que o computador execute cada uma.
+
+timeline
+Ao final, o programador tem a função de redução de olhos vermelhos funcionando.
+
+O resultado do sequenciamento de instruções compreensíveis ao computador para realizar uma dada tarefa (ex: redução de olhos vermelhos) é chamado de algoritmo.
+
+
+# Algoritmo
+### Definição
+Para usar o e-mail, assistir a um vídeo, conversar pelo WhatsApp, realizar operações bancárias, ou qualquer outro recurso útil via computador, smartphones etc., foi preciso que, em algum momento, uma pessoa ou uma equipe pensasse: “Bem, deveríamos escrever um algoritmo para isso”.
+
+
+Alguém estruturou os procedimentos necessários e, depois, transformou os passos de alto nível em instruções suficientemente simples, para que o computador ou o smartphone pudesse executá-las. Essa pessoa ou a equipe trabalhou, então, escrevendo o código para a solução. Em seguida, um bom tempo foi gasto para testar e melhorar o código, até que ele, de fato, representasse com fidelidade o algoritmo projetado originalmente.
+
+O programador pode se concentrar em ser criativo, para, então, criar um algoritmo capaz de resolver um problema real.
+
+## Programadores versus computadores
+Programadores de computadores são os responsáveis por discernir um aproveitamento útil, transformar a ideia de aplicação (ex.: redução de olhos vermelhos em fotos) em um algoritmo e traduzir esse discernimento em uma sequência de instruções simples, compreensíveis para o computador. As máquinas, por outro lado, são inacreditavelmente rápidas. Assim, programadores e computadores formam uma combinação extremamente poderosa. Vamos entender agora a diferença entre código e algoritmo:
+
+##### Código (definição simplificada)
+É um conjunto qualquer de instruções simples escrito em alguma linguagem padrão compreensível para o computador. Deve ser escrito em uma linguagem de programação padrão, senão os computadores não conseguirão executá-lo.
+
+
+##### Algoritmo (definição simplificada)
+É um termo que reflete uma ideia mais completa, em que o conjunto de instruções possuem uma finalidade útil. Não precisa ser escrito em linguagem de computador, podendo ser escrito, por exemplo, em português.
+
+Suponha que você tenha pensado em um algoritmo com a finalidade de calcular a idade de pessoas com base em sua data de nascimento. Então, você começa a escrever um código que deve seguir uma das linguagens de programação padrão. Enquanto não estiver funcionando, não poderá ser classificado como um algoritmo, pois ainda não alcança sua finalidade.
+
+Então, no que o computador é bom? Bem, o computador é bom em ser rápido e barato.
+
+### Códigos e algoritmos
+Entenda melhor os códigos e os algoritmos.
+
+
+Com a lei de Moore, os computadores têm ficado mais baratos, e isso ocorre há várias décadas. Como resultado, eles podem ser mais difundidos e é possível embutir mais pesquisa científica para desenvolvê-los, tornando-os ainda mais rápidos. Conheça mais a seguir.
+
+
+
+
