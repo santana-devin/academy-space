@@ -279,5 +279,174 @@ Pense nisso!
 Os vídeos a seguir abordam os assuntos mais relevantes do conteúdo que você acabou de estudar.
 
 
+# Falta pouco para atingir seus objetivos. Vamos praticar alguns conceitos?
+
+![image](https://user-images.githubusercontent.com/60019853/191332777-61f64730-1c9d-4bfe-8a9a-f44528854da4.png)
+
+
+![image](https://user-images.githubusercontent.com/60019853/191335148-6ec3d5a1-7e4b-44ae-8bd0-76b4a87d256c.png)
+
+
+
+# Código de instrução de computadores
+Ao final deste módulo, você será capaz de empregar códigos simples de instruções de computadores.
+
+## Códigos em execução
+### Preparação
+Aqui queremos chegar ao ponto em que você possa escrever algum código de computador, executá-lo e ver o que ele faz. No computador, tudo se resume realmente a códigos em execução (rodando). É assim que as coisas acontecem. Assim, para que a natureza dos computadores seja entendida, nada melhor do que rodar um pouco de código e ver como ele funciona.
+
+#### Atenção!
+Não se preocupe, pois não veremos casos complexos com um milhão de linhas de código, mas apenas um pouco de código. Somente o mínimo, para que você tenha o primeiro contato com o que é escrever código de computador.
+
+Antes de chegar ao código, será necessário um pouco de paciência. Os elementos de código que serão mostrados aqui não são chiques, chamativos ou complexos. Eles são muito simples. Talvez seja um pouco como um brinquedo de peças de encaixe, isoladas, dispersas, complexas; porém, com o tempo e a familiaridade, as possibilidades e o uso vão se modificando.
+
+Assim como usamos alguma língua (português, inglês etc.) para conversar com as pessoas, é necessário usar uma das linguagens disponíveis para escrever códigos que o computador compreenda. Existem várias linguagens de computador diferentes para informar ao computador o que fazer.
+
+Aqui, utilizaremos uma das mais usadas na atualidade, uma versão simplificada da linguagem Javascript, por exemplo, empregando instruções simplificadas para impressão na tela e nas estruturas de repetição. Usaremos somente os principais recursos, para que você possa escrever e manipular códigos bem simples e brincar com a ideia-chave: compreender de fato como funcionam os computadores.
+
+>> Para compreender como imprimir strings, veja a Prática 2 a seguir.
+
+![image](https://user-images.githubusercontent.com/60019853/191335850-f7224bd8-f99f-4cb7-8bd0-fcd9adea9751.png)
+
+O que temos de novidade aqui? O que fizemos foi usar a sintaxe padrão para informar ao computador que o que está sendo impresso é um texto (string). Para isso, cercamos as strings Teste, Bom dia e Tchau com aspas duplas.
+
+Ao clicar em Executar, você pode ver os textos e valores numéricos corretamente impressos em Saída.
+
+# Prática 2
+
+Dica
+Um comentário, em JavaScript, começa com duas barras. Em seguida, você pode escrever notas para você mesmo, para lembrá-lo, no futuro, do que você pretendia ou do que está tentando fazer neste ponto do seu código. O computador sabe ignorar comentários, então é apenas uma maneira de adicionar decorações/lembretes ao código com pequenas observações.
+
+O uso de comentários é considerado bastante importante, pois ajuda o programador a compreender um código que não foi escrito por ele, ou até mesmo um código que foi escrito por ele há tanto tempo que ele não lembra mais como raciocinou para escrever aquele trecho de código.
+
+Um exemplo intrigante que podemos citar aqui é colocar a palavra print no lugar de Tchau. Isso é intrigante, pois print também é o nome da instrução de impressão reconhecida pela linguagem de programação que estamos usando.
+
+O que ocorrerá ao substituirmos Tchau por print e clicarmos e Executar? Se você mesmo fizer este teste na Prática 2, obterá o resultado ilustrado no emulador a seguir.
+
+![image](https://user-images.githubusercontent.com/60019853/191336131-f528009d-2175-40a4-b298-1979b238bad4.png)
+
+
+Como a string print está delimitada por aspas na terceira linha, o computador sabe que se trata apenas de mais um texto a ser impresso, e não de outra instrução print. Portanto, quando sequências de caracteres são colocadas entre aspas duplas, como neste exemplo, o computador entende que se trata apenas de dados passivos, e lida com eles conforme esperado.
+
+report_problem
+Atenção!
+Note que temos uma lição importante aqui sobre sintaxe. Nós já sabemos que ela é restrita e mecânica; no entanto, é importante entender que você está seguindo um padrão/convenção ao escrever um código de computador que envolve a sintaxe, o que é característico da linguagem de programação. Então, é muito comum, mesmo para programadores muito profissionais, a ocorrência de pequenos erros de sintaxe.
+
+Quando há um erro de sintaxe, ao clicarmos no botão de execução, alguns serão listados em Saída. Então, é parte da tarefa de quem escreveu o código corrigir esses erros até que o computador aceite que as instruções estão de acordo com o padrão de sintaxe da linguagem de programação em uso. Esse é apenas um processo rápido, superficial e comum.
+
+A razão pela qual estamos discutindo isso é que, quando alguém está apenas começando a aprender a escrever códigos (programar), será bastante comum se deparar com erros de sintaxe. Então, jamais se permita ter a impressão de que você não está entendendo como escrever código. Apenas entenda que todo mundo passa por erros de sintaxe, inclusive programadores com décadas de experiência. Então, quando se deparar com erros de sintaxe, apenas faça uma checagem rápida e cuidadosa para corrigir os erros e seguir adiante.
+
+Para promover a ideia de que o erro de sintaxe não é grande coisa, queremos mostrar como consertar isso. Veremos alguns exemplos práticos a seguir. São apenas alguns exemplos de código, todos com erros de sintaxe. Queremos que você treine o processo de identificá-los e corrigi-los.
+
+
+# Prática 3
+
+Como vimos, todo mundo passa por erros de sintaxe. Vamos aprender a identificá-los e corrigi-los!
+
+O resultado de cada um dos seis exemplos a seguir deve imprimir, em Saída, as letras destacadas em verde. Você precisa corrigir a sintaxe de cada um dos seis exemplos. Depois que você corrigir a sintaxe das instruções, cada um dos seis exemplos imprimirá exatamente as três linhas indicadas em vermelho mais à frente.
+
+```
+A
+B B 
+C C C
+// Resultado da saída dos exemplos.
+```
+### ERRO
+![image](https://user-images.githubusercontent.com/60019853/191336560-1a1c6f22-4950-4bf4-a54b-c24f1803412e.png)
+
+### CORRETO
+![image](https://user-images.githubusercontent.com/60019853/191336669-f4411f4c-3e67-4883-a584-028f3e4d72ab.png)
+
+
+# Prática 3
+### ERRO
+![image](https://user-images.githubusercontent.com/60019853/191336875-f84f52c4-fe4e-414d-84b7-efb5e65583d8.png)
+
+### CORRETO
+![image](https://user-images.githubusercontent.com/60019853/191336971-3d5caaac-6a18-4620-b98d-e1ae91b8834c.png)
+
+### ERRO
+![image](https://user-images.githubusercontent.com/60019853/191337068-d2cc7057-c7f3-4db7-81ef-e9bed469c439.png)
+
+### CORRETO
+![image](https://user-images.githubusercontent.com/60019853/191337225-f360c2da-b8aa-4fcd-9d59-ef78f66a45cd.png)
+
+### ERRO
+![image](https://user-images.githubusercontent.com/60019853/191337314-f614ae44-a37e-43c4-a5be-84abf8fe699c.png)
+
+### CORRETO
+![image](https://user-images.githubusercontent.com/60019853/191337383-1c8a3212-958b-4528-b9be-955314340e8e.png)
+
+### ERRO
+![image](https://user-images.githubusercontent.com/60019853/191337454-be8a1550-244d-4955-b179-cf9600883afc.png)
+
+### CORRETO
+![image](https://user-images.githubusercontent.com/60019853/191337579-e67eddb0-a218-4448-82c7-9292dc05008f.png)
+
+### ERRO
+![image](https://user-images.githubusercontent.com/60019853/191337630-f82f9918-c5ff-4722-a2b1-026a0c3956be.png)
+
+
+### CORRETO
+![image](https://user-images.githubusercontent.com/60019853/191337709-04ee0987-a8b1-496d-b6ab-a5529a188e6d.png)
+
+
+![image](https://user-images.githubusercontent.com/60019853/191337788-d45d9f2c-7ea2-49ee-a4cc-3717bd5e4871.png)
+
+Por fim, precisamos abordar mais um conceito básico: variáveis. Uma variável no computador é como uma caixa, ou seja, um local onde podemos armazenar valores para uso futuro. Então, se tivermos um código em que atribuímos o valor 7 a uma variável V, o que isso significa é que há uma caixa no computador chamada V, conforme ilustrado na tabela a seguir, nós simplesmente podemos armazenar um valor, como um 7, nessa caixa. Também poderíamos armazenar qualquer valor que quiséssemos.
+
+
+## O que significa na prática?
+
+
+“Caixa” de nome V, em que atribuímos o valor numérico 7:
+
+"Caixa" ← 7
+
+Sendo um pouco mais específico, essa “caixa” é, na verdade, um espaço na memória do computador, em que podemos armazenar valores, e V é o nome que damos a essa área reservada para armazenar o valor que desejarmos. Em linhas posteriores, no código, se um V aparecer, o computador sabe o que colocamos dentro da caixa (em nosso exemplo, o 7). A variável se torna uma espécie de abreviação conveniente para qualquer valor que eu queira usar.
+
+Na primeira linha, atribuímos o valor 7 à variável que optamos por chamar de V.
+Na segunda linha, damos um comando para imprimir o valor da variável, que será 7 neste exemplo.
+Na terceira linha, imprimimos uma string informando “O valor da variável é:” e, depois, indicamos “V” para que o computador imprima de fato o valor recuperado da variável.
+Clique em Executar e observe os resultados.
+
+![image](https://user-images.githubusercontent.com/60019853/191337932-057c65a5-3cce-4b90-b9cf-d7d87a13729f.png)
+
+Notou que, sempre que V é referenciado no código, o computador o substitui pelo valor 7? Esse é o equivalente a ler o valor armazenado na caixa.
+
+Uma grande vantagem do uso de variáveis é que, se o programador quiser usar um valor diferente em seu código, basta trocar o valor na linha de atribuição de valor à variável, e todo o restante do código passará a usar o novo valor sempre que houver referência à variável, que, em nosso exemplo, é V.
+
+
+# Prática 4
+Observe o que acontece quando substituímos 7 por 1980 e clicamos em Executar. Note que todos os locais em que V foi referenciado resultaram em 1980 na saída.
+
+![image](https://user-images.githubusercontent.com/60019853/191338052-46537c6e-9847-45fd-88c0-723bcf0db09c.png)
+
+# Prática 5
+
+Escreva, a seguir, um código que atribua a uma variável chamada N a string Guilherme, e depois clique em Executar para obter a seguinte Saída:
+
+. Guilherme Guilherme Guilherme
+. Eu conheço um amigo chamado Guilherme
+
+
+![image](https://user-images.githubusercontent.com/60019853/191338597-a39f59dc-8c56-4f1d-8b90-6efe653a9826.png)
+
+A seguir, veja sua resolução
+
+![image](https://user-images.githubusercontent.com/60019853/191338672-32f0bee0-8ca5-4880-be94-347765d1b1a5.png)
+
+Brinque à vontade com as práticas anteriores, até que fique à vontade para definir mais do que uma variável e imprimir mais do que um valor, até estar confortável com a ideia de que, para computadores, o uso do igual e de instruções significa atribuição. Isso é importante, pois, em matemática, o sinal de igual possui um significado diferente.
+
+# Falta pouco para atingir seus objetivos.
+Vamos praticar alguns conceitos?
+
+![image](https://user-images.githubusercontent.com/60019853/191339073-d2a7c6e3-57d5-4711-9a86-9e488df49471.png)
+
+
+![image](https://user-images.githubusercontent.com/60019853/191339202-3dbc14b0-cb90-47ea-a74c-ee75171f894a.png)
+
+
+
 
 
