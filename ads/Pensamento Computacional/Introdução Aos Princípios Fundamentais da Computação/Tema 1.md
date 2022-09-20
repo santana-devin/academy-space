@@ -447,6 +447,48 @@ Vamos praticar alguns conceitos?
 ![image](https://user-images.githubusercontent.com/60019853/191339202-3dbc14b0-cb90-47ea-a74c-ee75171f894a.png)
 
 
+## Considerações finais
+Pensamento computacional parece um tema futurístico. Inclusive, muitos alunos devem ter se lembrado dos filmes de catástrofe, em que a tecnologia se levanta contra o homem. Neste material, você foi tranquilizado sobre essas questões. Primeiro, descobriu que máquinas são terrivelmente ignorantes e profundamente capazes. Somente a partir da interação e da estruturação de um conjunto de linguagens específicas, o grande potencial das máquinas — armazenamento e processamento — pode ser efetivamente estruturado.
+
+Sendo assim, pensamento computacional é um convite para que você entenda como funciona essa relação entre máquinas e homens e, com isso, perceba que não é preciso dominar tecnicamente uma ferramenta apenas em determinado momento, pois, embora elas sejam atualizadas constantemente, a dinâmica e os fins permanecem os mesmos.
+
+Nesse sentido, o que você precisa conhecer, então, são as linguagens que compõem esse novo universo: códigos e algoritmos. Se você entendeu que código são as instruções que o ser humano dá à máquina — mostrando que computadores executam nossas demandas — e que algoritmo é a linha desse comando estruturado para que a máquina interprete e execute, você entendeu a essência da dinâmica comando, forma de comando, execução, novas demandas, comandos e forma de comando, sempre impulsionada pelas demandas humanas.
+
+Para concluir, sugerimos que você faça inúmeros testes (em alguma das práticas acima) a fim de perceber como se relacionou com o assunto, criou e executou a dinâmica proposta. Como uma criança que aprende a engatinhar e a ficar em pé, daqui por diante, busque dar os primeiros passos, entendendo a mecânica, e, em breve, você estará correndo.
+
+
+## Referências
+CARVALHO, A.; LORENA, A. Introdução à computação: hardware, software e dados. Rio de Janeiro: LTC, 2017.
+
+DALE, N.; LEWIS, J. Ciência da computação. 4. ed. Rio de Janeiro: LTC, 2011.
+
+FEDELI, R. D.; POLLONI, E. G. F.; PERES, F. E. Introdução à ciência da computação. 2. ed. São Paulo: Cengage, 2010.
+
+FLANAGEN, D. Javascript: o guia definitivo. 6. ed. Porto Alegre: Bookman, 2013.
+
+GLENN, J. Ciência da computação: uma visão abrangente. 11. ed. Porto Alegre: Bookman, 2013.
+
+## Explore +
+A literatura e o cinema de ficção contribuíram muito para discutir a percepção da máquina (e do computador) como superior e possível inimiga da humanidade. Esta é uma das funções da arte: provocar nossa reflexão! Assim, além das obras citadas ao longo de nosso material, sugerimos algumas outras.
+
+Leia os seguintes livros:
+
+Admirável mundo novo, de Aldous Huxley (1932).
+Eu, robô, de Isaac Asimov (1950).
+Guerra dos mundos, de H.G. Wells (1898).
+O homem do castelo alto, de Philip K. Dick (1962).
+1984, de George Orwell (1949).
+Assista:
+
+A.I. – Inteligência artificial, de Steven Spielberg (2001).
+Animatrix, de Shinichiro Watanabe, Takeshi Koike, Yoshiaki Kawajiri, Peter Chung, Koji Morimoto, Mahiro Maeda e Andrew R. Jones (2003).
+Blade Runner – O caçador de androides, de Ridley Scott (1982).
+Ex-Machina: Instinto artificial, de Alex Garland (2015).
+Gattaca – A experiência genética, de Andrew Niccol (1997).
+Minority report – A nova lei, de Steven Spielberg (2002).
+O homem bicentenário, de Chris Columbus (1999).
+Wall-E, de Andrew Stanton (2008).
+Jornada nas estrelas: Picard, de Akiva Goldsman, Michael Chabon, Kirsten Beyer e Alex Kurtzman (2020–atualmente)
 
 
 
