@@ -1,3 +1,12 @@
+# Pensamento Computacional  
+
+Disciplina Digital  
+
+Tutor(a) Ricardo Luis Balieiro  
+
+ARA0002  
+9001
+
 ### Tema 1
 Introdução Aos Princípios Fundamentais da Computação
 
