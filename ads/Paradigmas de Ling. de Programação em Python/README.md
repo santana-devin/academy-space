@@ -8,7 +8,7 @@ Python Básico
 
 # Tema 3
 
-# Python Estruturado
+Python Estruturado
 
 # Tema 4
 
