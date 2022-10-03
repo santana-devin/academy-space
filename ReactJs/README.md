@@ -6,3 +6,7 @@ Babel é um compilador de javascript.
 
 Webpack - De uma maneira geral, o webpack pode ser visto como uma ferramenta responsável pela construção, onde todos os seus ativos, o que inclui JavaScript, imagens, fontes e CSS, são direcionados para um gráfico de dependência.
 
+
+Esbuild
+
+
