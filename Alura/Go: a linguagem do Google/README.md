@@ -111,5 +111,20 @@ func imprimeLogs() {
 O detalhe é que não precisamos fechar o arquivo, pois o pacote ioutil abre o arquivo, o lê e o fecha para nós.
 
 
+## 10 Conclusão
+Biblitecas utilizadas
 
+```
 
+import(
+	"bufio"
+	"fmt"
+	"io"
+	"io/ioutil"
+	"net/http"
+	"os"
+	"strconv"
+	"string"
+	"time"
+)
+```
