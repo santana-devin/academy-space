@@ -124,7 +124,8 @@ end
 
 Uma definição muito simples para os hashes é que eles são uma coleção de pares chave-valor. Confira a Figura 1, que ilustra a estrutura de um hash.
     
-    ![image](https://user-images.githubusercontent.com/60019853/196966604-2488671d-ec1b-4baf-9b6a-0d47cca88459.png)
+    
+![image](https://user-images.githubusercontent.com/60019853/196966604-2488671d-ec1b-4baf-9b6a-0d47cca88459.png)
 
 
     
