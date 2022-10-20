@@ -1,3 +1,28 @@
+### Playlist - Lógica de Programação em Ruby
+1. I/O	28/06/2021
+2. Variáveis	28/06/2021
+3. Array	28/06/2021
+4. Estruturas de Repetição	28/06/2021
+5. Estruturas Condicionais	28/06/2021
+6. Hash	28/06/2021
+7. Métodos	28/06/2021
+8. Boas Práticas
+
+### Playlist - Orientação a Objetos em Ruby
+1. Classes	28/06/2021
+2. Objetos	28/06/2021
+3. Métodos	28/06/2021
+4. Associação	28/06/2021
+5. Herança	28/06/2021
+
+### Conteúdos preparatórios QSD 40+
+Introdução ao Terminal	26/09/2022
+Lógica de Programação em Ruby	26/09/2022
+Básico de Orientação a Objetos com Ruby	26/09/2022
+Introdução a Web	26/09/2022
+Links úteis	26/09/2022
+
+
 #### Lógica de Programação em Ruby
 https://ifrnead.github.io/rubynapratica/contents/programacao_estruturada/hashes.html
 
