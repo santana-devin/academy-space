@@ -39,3 +39,65 @@ puts "Receita cadastrada com sucesso"
 #ruby cookbook.rb
 
 
+# 2. Variáveis
+
+#### String
+String sem utilisar concatenação
+
+```ruby
+puts "Digite o seu nome"
+nome = gets.comp()
+
+
+puts "Meu nome é #{nome}."
+```
+
+# 3. Array
+
+```ruby
+receitas = []
+
+receitas << "bolo de cenoura".comp()
+receitas << 3
+
+receitas.delete(3)
+
+puts receitas[0]
+```
+
+# 4. Estruturas de Repetição
+
+### while
+```ruby
+while(true) do
+
+end
+```
+
+### For
+```ruby
+for receita in receitas do
+  puts receita
+end
+```
+
+### Each
+```ruby
+receitas.each do |receita|
+  puts receita
+end
+```
+
+# 5. Estruturas Condicionais
+
+```ruby
+
+if(opcao ==1)
+
+elsif(opcao == 2)
+
+else
+
+end
+```
+
