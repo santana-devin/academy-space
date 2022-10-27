@@ -11,3 +11,22 @@ Done installing documentation for bundler after 4 seconds
 1 gem installed
 
 ```
+
+
+Desafio Calculadora
+
+
+```
+rspec
+
+```
+
+
+
+
+
+
+
+
+
+
