@@ -112,6 +112,18 @@ $ git commit
 ```
 
 
+#### Desafio
+```
+git clone git@git.codesaga.com.br:fabriciosantana/git-example
+git log
+git remote -v
+
+$ touch mais_um_arquivo.txt
+$ git add mais_um_arquivo.txt
+$ git commit -m "mais um arquivo adicionado"
+
+$ git push origin main
 
 
+```
 
