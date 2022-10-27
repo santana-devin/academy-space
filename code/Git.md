@@ -70,6 +70,47 @@ git help config
 ```
 
 
+Iniciando um repositório
+
+```
+mkdir meu_projeto
+cd meu_projeto/
+git init
+git branch --show-current
+// master
+
+git branch -m main
+git branch --show-current
+// main
+
+touch README.md
+git status
+git add README.md
+git status
+git commit -m "Meu primeiro commit"
+git status
+
+git log
+
+code README.md
+
+> Esse comando só funciona se você tem o VS Code instalado, mas você pode usar qualquer editor de código ou texto. E se esse comando não funcionar, você pode abrir o editor normalmente como faria com qualquer programa de computador.
+
+git status
+git add README.md
+git status
+git add README.md
+git config core.editor
+git config core.editor "nano"
+
+
+$ git config core.editor
+core.editor=vim
+$ git config core.editor "nano"
+git add README.md
+$ git commit
+```
+
 
 
 
