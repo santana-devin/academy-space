@@ -1,7 +1,7 @@
 
 # 1. Introduction to uTest
 
-###Learn about uTest. View Lessons
+### Learn about uTest. View Lessons
 Lessons Covered  
 Welcome to uTest  
 How uTest Works  
