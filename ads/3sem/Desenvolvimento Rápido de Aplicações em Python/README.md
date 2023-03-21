@@ -186,6 +186,34 @@ A pressão por soluções de software confiáveis e em curtos prazos favoreceu a
 
 (X) O projeto é desenvolvido em etapas e com a inclusão de novas funcionalidades.
 
+# MÓDULO 2
+## Identificar as fases da RAD
+
+> **CONCEITOS**
+A metodologia RAD é caracterizada pelo desenvolvimento do projeto através de etapas iterativas e incrementais, onde um protótipo é entregue ao final de cada ciclo. A proposta é que haja redução nas atividades relacionadas ao planejamento em detrimento do processo de desenvolvimento através de um processo que se caracteriza por incrementos de funcionalidades a cada nova iteração. Desse modo, a expectativa é que as equipes produzam mais em menos tempo, maximizando a satisfação do cliente, uma vez que ele é envolvido no processo. Isso ocorre porque a RAD é estruturada para que as partes interessadas interajam e possam detectar a necessidade de alterações do projeto em tempo real, sem a necessidade de completar longos ciclos de desenvolvimento, e os desenvolvedores possam realizar as implementações rapidamente ao longo das iterações.
+
+
+O ciclo de vida da RAD foi projetado para direcionar os desenvolvedores na criação de soluções de software que atendam às necessidades dos usuários. Este ciclo de vida trata das atividades que são necessárias para definir o escopo e os requisitos de negócios, além das atividades para projetar, desenvolver e implementar o sistema. Na abordagem de James Martin (MARTIN, 1991), a metodologia RAD possui quatros fases distintas, que são:
+
+##### FASE 1
+> **Planejamento de requisitos**
+As partes interessadas – usuários, gerentes e desenvolvedores – estudam as necessidades de negócios, escopo do projeto, restrições e requisitos do sistema. A gerência só autoriza a continuidade do projeto depois que os membros das equipes concordam sobre o entendimento dos requisitos do sistema.
+
+##### FASE 2
+> **Design do usuário**
+São desenvolvidos modelos e protótipos – através da interação de usuários e desenvolvedores – para representar todos os processos, entradas e saídas do sistema. Para isso, são usadas uma combinação de técnicas JAD (Joint Application Development) e ferramentas CASE para representar as demandas do usuário em modelos de trabalho.
+
+##### FASE 3
+> **Design do usuário**
+São desenvolvidos modelos e protótipos – através da interação de usuários e desenvolvedores – para representar todos os processos, entradas e saídas do sistema. Para isso, são usadas uma combinação de técnicas JAD (Joint Application Development) e ferramentas CASE para representar as demandas do usuário em modelos de trabalho.
+
+##### FASE 4
+> **Transição**
+São feitos processamento de dados, testes, mudança para o novo sistema e treinamento do usuário.
+
+
+##### Resumindo
+O planejamento de requisitos está focado em determinar as metas e expectativas do projeto e quais são os potenciais problemas que podem ser impeditivos para o desenvolvimento do software. No caso da RAD, onde a entrega rápida de resultados é um dos objetivos principais, a identificação prévia dos requisitos funcionais é muito importante. Na fase de design do usuário, a interação entre os desenvolvedores e os usuários é constante no desenvolvimento de modelos e protótipos que abordam todos os processos, entradas e saídas do sistema. Na fase de construção, converte o protótipo aprovado da fase de design do usuário em um modelo de trabalho. Como já houve bastante interação entre usuários e desenvolvedores na fase anterior, agora o foco dos desenvolvedores está na construção do modelo de trabalho final. Por fim, na fase de transição, o produto está pronto para ser lançado. Aqui, o usuário deve passar por treinamento para começar a usar o sistema.
 
 
 
